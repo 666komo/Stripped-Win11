@@ -3,8 +3,6 @@
 This is my custom Windows 11 Pro N x64 .iso and it is bare metal friendly.
 It does NOT include any bloatware, telemetry or data collection (and does not include any browser by default).
 
-![image](https://user-images.githubusercontent.com/118112129/221356135-68002990-0832-47f1-813d-8555c58e2800.png)
-
 # Download
 
 Download the ISO file from Mega:
