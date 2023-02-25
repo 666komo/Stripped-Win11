@@ -6,7 +6,7 @@ It does NOT include any bloatware, telemetry or data collection (and does not in
 # Download
 
 Download the ISO file from Mega:
-https://mega.nz/file/fY1STZ7B#NHVV1I2ehVNyyc5VOiIXr6eSc58wlcXgmMuR7b3Phfo
+https://mega.nz/file/DFMwQYqT#Eml6P7zFVrYTCvbQgZ82jlAeMuKC1_dXfMJXoSMBgvQ
 
 # Installation
 
