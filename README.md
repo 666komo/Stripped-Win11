@@ -1,6 +1,6 @@
 # Stripped Win11 by KOMO
 
-This is my custom Windows 11 Pro N x64 .iso and it is bare metal friendly.
+This is my custom Windows 11 Pro x64 .iso and it is bare metal friendly.
 It does NOT include any bloatware, telemetry or data collection.
 
 This version of Windows includes Firefox (there is no MS Edge by default), all Visual C++ versions and .Net 6+7.
