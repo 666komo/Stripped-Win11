@@ -29,11 +29,6 @@ https://mega.nz/file/fY1STZ7B#NHVV1I2ehVNyyc5VOiIXr6eSc58wlcXgmMuR7b3Phfo
 7. I would recommend using some of the tweaks from this utility as long as you know what you are doing. (Only at your own risk!!!)
 8. Thats it. Enjoy.
 
-# Credits
-
-All creds to Chris Titus for making this Utility because it is much more simple to operate with stripped down ISOs.
-Thanks!
-
 # There is still room for improvement!
 
 There are still some things I want to change or delete. Make sure to watch this repo for updates!
